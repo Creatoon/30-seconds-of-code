@@ -2,7 +2,7 @@
 
 # 30 seconds of code
 
-> Short JavaScript code snippets for all your development needs
+> Short JavaScript code snippets for all your development needs.
 
 * Visit [our website](https://30secondsofcode.org) to view our snippet collection.
 * Use the [Search page](https://30secondsofcode.org/search) to find snippets that suit your needs. You can search by name, tag, language or using a snippet's description. Just start typing a term and see what comes up.
